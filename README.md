@@ -36,8 +36,7 @@ An AI-powered web application that detects **driver drowsiness** and **distracti
 ---
 
 ## 📁 Folder Structure
-
-driver_monitoring_system/
+<pre>driver_monitoring_system/
 ├── app/
 │ ├── static/ # CSS and JS 
 │ ├── templates/
@@ -56,9 +55,7 @@ driver_monitoring_system/
 │
 ├── main.py # App entry point
 ├── requirements.txt # Python dependencies
-└── README.md
-
-
+└── README.md</pre>
 ---
 
 🚀 How to Run the Project Locally
@@ -98,3 +95,10 @@ You’ll see the live webcam feed and detection interface.
 Click the Start Detection button to begin monitoring for drowsiness or distraction.
 Alerts will sound if unsafe behavior is detected.
 
+📄 License
+This project is licensed under the MIT License.
+
+🙋‍♂️ Author
+Zaid Mehmood
+4th Semester, BS Artificial Intelligence
+Superior University
