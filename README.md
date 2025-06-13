@@ -1,5 +1,4 @@
 # 🚗 AI-Based Driver Monitoring System
-# 🚗 AI-Based Driver Monitoring System
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-green?logo=flask)
@@ -8,6 +7,11 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 An AI-powered web application that detects **driver drowsiness** and **distraction** in real-time using a webcam. The system alerts the driver through an audible beep if signs of sleepiness or inattentiveness are detected.
+
+---
+---
+
+> 🚗 *AI That Watches Over You While You Drive*
 
 ---
 
