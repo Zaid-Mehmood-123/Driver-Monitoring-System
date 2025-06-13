@@ -112,6 +112,9 @@ Alerts will sound if unsafe behavior is detected.
 This project is licensed under the MIT License.
 
 🙋‍♂️ Author
+
 Zaid Mehmood
+
 4th Semester, BS Artificial Intelligence
+
 Superior University
