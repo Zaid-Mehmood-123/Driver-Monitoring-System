@@ -9,7 +9,7 @@
 An AI-powered web application that detects **driver drowsiness** and **distraction** in real-time using a webcam. The system alerts the driver through an audible beep if signs of sleepiness or inattentiveness are detected.
 
 ---
-> 🚗 *AI That Watches Over You While You Drive*
+🚗 *AI That Watches Over You While You Drive*
 
 ---
 
@@ -59,12 +59,15 @@ An AI-powered web application that detects **driver drowsiness** and **distracti
 ---
 
 🚀 How to Run the Project Locally
+
 Follow these simple steps to set up and run the Driver Monitoring System on your local machine.
 
 💡 Make sure you have Python 3.8+ installed and a webcam connected.
 
 ⚙️ 1. Clone the Repository
+
 git clone https://github.com/yourusername/driver-monitoring-system.git
+
 cd driver-monitoring-system
 
 📦 2. Install Required Dependencies
