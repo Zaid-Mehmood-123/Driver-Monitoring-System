@@ -107,9 +107,13 @@ Click the Start Detection button to begin monitoring for drowsiness or distracti
 
 Alerts will sound if unsafe behavior is detected.
 
+---
+
 📄 License
 
 This project is licensed under the MIT License.
+
+---
 
 🙋‍♂️ Author
 
