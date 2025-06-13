@@ -71,34 +71,44 @@ git clone https://github.com/yourusername/driver-monitoring-system.git
 cd driver-monitoring-system
 
 📦 2. Install Required Dependencies
+
 Use the command below to install all Python packages listed in requirements.txt.
 
 pip install -r requirements.txt
+
 If you’re using a virtual environment (recommended):
 
 python -m venv venv
 venv\Scripts\activate  # For Windows
-source venv/bin/activate  # For Linux/macOS
 
 pip install -r requirements.txt
 
 🧠 3. Run the Application
+
 Launch the Flask app by running:
 
 python main.py
+
 You should see output like:
+
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
 🌐 4. Open in Browser
+
 🔗 Open your browser and go to:
+
 http://127.0.0.1:5000
+
 You’ll see the live webcam feed and detection interface.
 
 ✅ 5. Start Monitoring
+
 Click the Start Detection button to begin monitoring for drowsiness or distraction.
+
 Alerts will sound if unsafe behavior is detected.
 
 📄 License
+
 This project is licensed under the MIT License.
 
 🙋‍♂️ Author
